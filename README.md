@@ -14,6 +14,8 @@ Play it here: **https://recall-and-react.netlify.app**
 
 Dementia affects tens of millions of people worldwide (WHO), and changes in memory and reaction speed are often among the first things people, or their families, begin to notice. These changes tend to creep in slowly, and many people only seek help late.
 
+Age is not the only thing that can affect memory and focus. Natural cognitive decline comes with ageing, but modern habits may add to it. Many people of every age, from children to older adults, now spend hours scrolling short-form videos such as reels and YouTube Shorts. A growing body of research, including a 2025 meta-analysis in Psychological Bulletin, links heavy short-form video use with poorer attention, memory and self-control. This evidence shows an association. It does not prove that short videos cause lasting memory loss, and some researchers dispute how strong the link is. Still, it is one more reason for people of all ages to keep an eye on how their memory and reaction speed are doing.
+
 Recall and React is a simple, friendly game designed for older adults. Every time you play, your results are saved in your own **progress log** with the date and time. Over weeks and months, the log shows how your memory and reaction speed are changing.
 
 ## How it can help
