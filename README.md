@@ -1,6 +1,6 @@
 # Recall-and-React-game
 Healthcare Project 
-# Recall and React
+
 
 **A short memory and reaction game that keeps your own progress log, so you can notice changes over time.**
 
